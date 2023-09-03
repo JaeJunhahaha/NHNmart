@@ -1,0 +1,27 @@
+2023-09-03 16:39:54,272 [main] INFO c.n.m.MyLogback [MyLogback.java:11] - 덧셈 연산 수행 : 1 + 2
+2023-09-03 16:39:54,275 [main] WARN c.n.m.MyLogback [MyLogback.java:17] - 덧셈 연산 실패.. 0으로 나눌 수 없음
+2023-09-03 16:46:16,612 [main] TRACE c.n.m.MyLogback [NhnMartShell.java:47] - NHN 마트에 오신 것을 환영합니다. 사고싶은 물건을 골라주세요
+2023-09-03 16:46:36,607 [main] TRACE c.n.m.MyLogback [NhnMartShell.java:47] - NHN 마트에 오신 것을 환영합니다. 사고싶은 물건을 골라주세요
+2023-09-03 16:46:39,287 [main] WARN c.n.m.MyLogback [NhnMartShell.java:54] - 한 개 이상의 상품을 골라주세요.
+2023-09-03 16:46:58,900 [main] TRACE c.n.m.MyLogback [NhnMartShell.java:47] - NHN 마트에 오신 것을 환영합니다. 사고싶은 물건을 골라주세요
+2023-09-03 16:47:01,832 [main] WARN c.n.m.MyLogback [NhnMartShell.java:54] - 한 개 이상의 상품을 골라주세요.
+2023-09-03 16:47:10,555 [main] TRACE c.n.m.MyLogback [NhnMartShell.java:47] - NHN 마트에 오신 것을 환영합니다. 사고싶은 물건을 골라주세요
+2023-09-03 16:47:20,899 [main] WARN c.n.m.MyLogback [NhnMartShell.java:54] - 한 개 이상의 상품을 골라주세요.
+2023-09-03 16:52:51,267 [main] TRACE c.n.m.MyLogback [NhnMartShell.java:47] - NHN 마트에 오신 것을 환영합니다. 사고싶은 물건을 골라주세요
+2023-09-03 16:52:58,111 [main] WARN c.n.m.MyLogback [NhnMartShell.java:54] - 한 개 이상의 상품을 골라주세요.
+2023-09-03 16:53:02,091 [main] TRACE c.n.m.MyLogback [NhnMartShell.java:47] - NHN 마트에 오신 것을 환영합니다. 사고싶은 물건을 골라주세요
+2023-09-03 16:53:07,862 [main] TRACE c.n.m.MyLogback [Counter.java:27] - 총 가격은 3000원 입니다.
+2023-09-03 16:53:07,864 [main] TRACE c.n.m.MyLogback [Customer.java:61] - 고객님 결제 후 잔액 : 17000
+2023-09-03 16:53:36,130 [main] TRACE c.n.m.MyLogback [NhnMartShell.java:47] - NHN 마트에 오신 것을 환영합니다. 사고싶은 물건을 골라주세요
+2023-09-03 16:53:38,297 [main] WARN c.n.m.MyLogback [FoodStand.java:43] - 마트에 있는 상품 개수보다 많습니다.
+2023-09-03 16:53:42,867 [main] TRACE c.n.m.MyLogback [NhnMartShell.java:47] - NHN 마트에 오신 것을 환영합니다. 사고싶은 물건을 골라주세요
+2023-09-03 16:53:46,506 [main] WARN c.n.m.MyLogback [FoodStand.java:43] - 마트에 있는 상품 개수보다 많습니다.
+2023-09-03 16:53:53,623 [main] TRACE c.n.m.MyLogback [NhnMartShell.java:47] - NHN 마트에 오신 것을 환영합니다. 사고싶은 물건을 골라주세요
+2023-09-03 16:53:55,792 [main] TRACE c.n.m.MyLogback [Counter.java:27] - 총 가격은 40000원 입니다.
+2023-09-03 16:53:55,792 [main] WARN c.n.m.MyLogback [Customer.java:58] - 금액이 초과되었습니다.
+2023-09-03 17:00:42,710 [main] TRACE c.n.m.MyLogback [Counter.java:26] - 총 가격은 14000원 입니다.
+2023-09-03 17:00:42,712 [main] TRACE c.n.m.MyLogback [Customer.java:60] - 고객님 결제 후 잔액 : 6000
+2023-09-03 17:00:42,717 [main] TRACE c.n.m.MyLogback [Counter.java:26] - 총 가격은 54000원 입니다.
+2023-09-03 17:00:42,718 [main] WARN c.n.m.MyLogback [Customer.java:57] - 금액이 초과되었습니다.
+2023-09-03 17:00:42,719 [main] WARN c.n.m.MyLogback [FoodStand.java:40] - 마트에 존재하는 상품을 골라주세요.
+2023-09-03 17:00:42,720 [main] WARN c.n.m.MyLogback [FoodStand.java:43] - 마트에 있는 상품 개수보다 많습니다.
